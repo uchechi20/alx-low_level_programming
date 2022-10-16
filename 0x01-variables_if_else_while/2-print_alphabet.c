@@ -1,5 +1,3 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 /**
  * main - prints alpha in lower case
@@ -9,7 +7,7 @@ int main(void)
 {
 char lc;
 
-for (lc = 'a'; lc <= 'z';  lc **)
+for (lc = 'a'; lc <= 'z'; lc* *)
 {
 	putchar(lc);
 }

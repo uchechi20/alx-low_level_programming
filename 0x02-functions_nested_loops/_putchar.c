@@ -6,5 +6,4 @@
 int _putchar(int x)
 {
 putchar(x);
-return (0);
 }

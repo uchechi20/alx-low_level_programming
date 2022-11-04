@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
@@ -10,7 +11,6 @@
  * Return: Always 0 (success)
  */
 int check_num(char *str)
-
 {
 /*Declaring variables*/
 unsigned int count;
